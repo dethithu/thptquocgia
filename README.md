@@ -1,5 +1,5 @@
 # Website đề thi thử và tài liệu ôn thi THPT Quốc Gia
-Cung cấp các <a href="http://dethithu.net" title="đề thi thử thpt quốc gia">đề thi thử thpt quốc gia</a> HAY NHẤT, MỚI NHẤT cùng tài liệu ôn thi phong phú, đang dạng cho học sinh lớp 12, 11, 10 và giáo viên tham khảo. Các chuyên đề, tài liệu được chia sẻ được cập nhật thường xuyên để bảo đảm chuẩn nhất với cấu trúc <a href="http://dethithu.net/de-thi-dai-hoc/" title="đề thi đại học của BGD">đề thi đại học của BGD</a> & ĐT các năm gần đây.
+Cập nhật các đề thi thử HAY NHẤT, MỚI NHẤT cùng tài liệu ôn <a href="http://dethithu.net" title="thi thpt quốc gia">thi thpt quốc gia</a> phong phú, đang dạng cho học sinh lớp 12, 11, 10 và giáo viên tham khảo. Các chuyên đề, tài liệu được chia sẻ được cập nhật thường xuyên để bảo đảm chuẩn nhất với cấu trúc <a href="http://dethithu.net/de-thi-dai-hoc/" title="đề thi đại học của BGD">đề thi đại học của BGD</a> & ĐT các năm gần đây.
 Giao diện thân thiện, dễ sử dụng. Hỗ trợ tối đa vận hành trên các thiết bị , truy cập mọi lúc, mọi nơi lúc người dùng cần. Đó luôn là mục tiêu liên quan đến trải nghiệm người dùng mà dethithu.net luôn hướng tới.
 
 ## Những tài liệu ôn thi HAY được chia sẻ?
